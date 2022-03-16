@@ -3,7 +3,7 @@ ABOUT PostgreSQLDataInjector
 
 PostgreSQLDataInjector is a java rapplication that can INSERT your data to desired postgreSQL table, with a delimiter option.
 
-Also you can IMPORT data from a table, and run a SHELL COMMAND from the application.
+Also you can EXPORT data from a table, and run a SHELL COMMAND from the application.
 
 Program can access your both remote and local database, as configured in app.config file.
 
