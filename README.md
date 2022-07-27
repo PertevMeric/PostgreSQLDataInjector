@@ -7,7 +7,9 @@ Also you can EXPORT data from a table, and run a SHELL COMMAND from the applicat
 
 Program can access your both remote and local database, as configured in app.config file.
 
-HOW TO RUN THE PROGRAM
+------------
+
+## HOW TO RUN THE PROGRAM
 
 First, clone the project into your IDE (preferably Intellij IDEA). 
 
